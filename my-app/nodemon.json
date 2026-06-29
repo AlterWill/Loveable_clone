@@ -1,0 +1,6 @@
+{
+  "ignore": [
+    "**/sandbox/**",
+    "node_modules"
+  ]
+}
